@@ -27,7 +27,7 @@ metaDescription: "This is the meta description"
 ---
 ```
 
-To create sub folder, follow same structure as `shell.md and shell directory`
+To create sub category structures, follow same structure as `shell.md and shell directory`
 
 Place the above snippet of code in all MD files to customize title and meta data.
 
