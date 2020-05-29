@@ -13,6 +13,10 @@ yarn install
 yarn start
 ```
 
+Deploy: All the changes in master branch will be deployed using github actions and gh-pages.
+
+## Hacks:
+
 There is a content in the root directory in which all the pages / topics are added as Markdown.
 
 To create a new page; add a new file where filename will be assigned as the route / topic.
@@ -47,6 +51,6 @@ forcedNavOrder: [
     ]
 ```
 
-### Credits
+### Credits:
 
 Hasura Team [gitbook] - https://github.com/hasura/gatsby-gitbook-starter
