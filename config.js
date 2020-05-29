@@ -58,13 +58,13 @@ const config = {
       theme_color: '#ff6e43',
       display: 'standalone',
       crossOrigin: 'use-credentials',
-      icons: [
-        {
-          src: 'src/pwa-512.png',
-          sizes: `512x512`,
-          type: `image/png`,
-        },
-      ],
+      // icons: [
+      //   {
+      //     src: 'src/pwa-512.png',
+      //     sizes: `512x512`,
+      //     type: `image/png`,
+      //   },
+      // ],
     },
   },
 };
