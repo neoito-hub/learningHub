@@ -11,7 +11,6 @@ const config = {
     title:
       "learningHub",
     githubUrl: 'https://github.com/neoito-hub/learningHub',
-    // helpUrl: '',
     tweetText: '',
     links: [{ text: '', link: '' }],
     search: {
