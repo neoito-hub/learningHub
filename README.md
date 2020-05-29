@@ -21,7 +21,7 @@ There is a content folder in the root directory, where pages / topics are added 
 
 To create a new page; add a new file where filename will be assigned as the route / topic.
 
-Still want to edit some config,
+To change title and meta desc of each page
 
 ```
 ---
@@ -35,7 +35,7 @@ To create sub category structures, follow same structure as `shell.md and shell 
 
 Place the above snippet of code in all MD files to customize title and meta data.
 
-To change description, theming and order of pages: Edit `config.js` file in the root
+To change website title, description, theming and order of pages: Edit `config.js` file in the root
 
 To change order or to define specific routes
 
