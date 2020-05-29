@@ -1,7 +1,7 @@
 const config = {
   gatsby: {
     pathPrefix: '/',
-    siteUrl: 'http://localhost:8000/',
+    siteUrl: 'https://learning.neoito.com/',
     gaTrackingId: null,
     trailingSlash: false,
   },
@@ -10,7 +10,7 @@ const config = {
     logoLink: '/',
     title:
       "learningHub",
-    githubUrl: 'https://github.com/neoito-hub/devhandbook',
+    githubUrl: 'https://github.com/neoito-hub/learningHub',
     // helpUrl: '',
     tweetText: '',
     links: [{ text: '', link: '' }],
@@ -45,7 +45,7 @@ const config = {
     title: 'Style guides and learning materials for devs to improve tech skills | learningHub',
     description: 'Style guides and learning materials for developers to improve tech skills | learningHub ',
     ogImage: null,
-    docsLocation: 'https://github.com/that-coder/learningHub',
+    docsLocation: 'https://github.com/neoito-hub/learningHub',
     favicon: 'https://www.neoito.com/images/neoito.svg',
   },
   pwa: {
