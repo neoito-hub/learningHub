@@ -2,7 +2,7 @@
 
 Website link: https://learn.neoito.com/
 
-To contribute:
+## To contribute:
 
 Site is built using gatsby and below are the instructions to add content.
 
