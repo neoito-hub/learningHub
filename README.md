@@ -13,7 +13,7 @@ yarn install
 yarn start
 ```
 
-Deploy: All the changes in master branch will be deployed using github actions and gh-pages.
+Deploy: All the changes in master branch will be deployed to live site using github actions and gh-pages.
 
 ## Hacks:
 
