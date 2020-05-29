@@ -1,7 +1,7 @@
 {
-  "name": "Handbook",
+  "name": "learningHub",
   "private": true,
-  "description": "Handbook",
+  "description": "Style guides and learning materials for devs, to build lightning fast apps 🚀 | learningHub",
   "author": "thatcoder <thatcoder.space@gmail.com> (@that-coder)",
   "version": "0.0.1",
   "dependencies": {

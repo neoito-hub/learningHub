@@ -99,7 +99,7 @@ const Header = ({ location, isDarkThemeActive, toggleActiveTheme }) => (
                 <img
                   className={'img-responsive displayInline'}
                   src={logo.image !== '' ? logo.image : logoImg}
-                  alt={'logo'}
+                  alt={'logo'} width='70' height='70'
                 />
               </Link>
               <div
