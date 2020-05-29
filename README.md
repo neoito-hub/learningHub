@@ -51,6 +51,8 @@ forcedNavOrder: [
     ]
 ```
 
+Happy Hacking 🙌
+
 ### Credits:
 
 Hasura [gitbook] - https://github.com/hasura/gatsby-gitbook-starter
