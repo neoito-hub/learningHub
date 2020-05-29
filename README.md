@@ -53,4 +53,4 @@ forcedNavOrder: [
 
 ### Credits:
 
-Hasura Team [gitbook] - https://github.com/hasura/gatsby-gitbook-starter
+Hasura [gitbook] - https://github.com/hasura/gatsby-gitbook-starter
