@@ -14,4 +14,5 @@ jobs:
         with:
           access-token: ${{ secrets.ACCESS_TOKEN }}
           deploy-branch: gh-pages
+          cname:  neoito-hub.github.io
           gatsby-args: --prefix-paths
