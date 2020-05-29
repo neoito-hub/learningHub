@@ -41,8 +41,8 @@ const config = {
       "<a href='/'>learningHub",
   },
   siteMetadata: {
-    title: 'Style guides and learning materials for devs to improve tech skills | learningHub',
-    description: 'Style guides and learning materials for devs to improve tech skills | learningHub ',
+    title: 'Style guides and learning materials for devs, to build lightning fast apps 🚀 | learningHub',
+    description: 'Style guides and learning materials for devs, to build lightning fast apps 🚀 | learningHub',
     ogImage: null,
     docsLocation: 'https://github.com/neoito-hub/learningHub',
     favicon: 'https://www.neoito.com/images/neoito.svg',
