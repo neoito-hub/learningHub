@@ -1,4 +1,4 @@
-# Handbook
+# learningHub | Style guides and learning materials for devs, to build lightning fast apps 🚀
 
 Website link: https://learn.neoito.com/
 
