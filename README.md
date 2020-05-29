@@ -17,7 +17,7 @@ Deploy: All the changes in master branch will be deployed to live site using git
 
 ## Hacks:
 
-There is a content in the root directory in which all the pages / topics are added as Markdown.
+There is a content folder in the root directory, where pages / topics are added as Markdown.
 
 To create a new page; add a new file where filename will be assigned as the route / topic.
 
