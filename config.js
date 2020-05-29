@@ -1,6 +1,6 @@
 const config = {
   gatsby: {
-    pathPrefix: '/',
+    pathPrefix: '/learningHub',
     siteUrl: 'https://learning.neoito.com/',
     gaTrackingId: null,
     trailingSlash: false,
