@@ -57,7 +57,6 @@ const config = {
       background_color: '#6b37bf',
       theme_color: '#ff6e43',
       display: 'standalone',
-      crossOrigin: 'use-credentials',
       // icons: [
       //   {
       //     src: 'src/pwa-512.png',
