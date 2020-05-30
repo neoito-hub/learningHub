@@ -1,4 +1,5 @@
 title: "Angular"
+---
 
 1. Naming of variables should be 'VerbNoun' phrased with camel casing. The possible verb and noun naming for different modules will be there in each project ReadMe.
 2. For Redux based applications, the store data should be run through a VO service which will be input to the presentation component
