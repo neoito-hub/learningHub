@@ -4,9 +4,9 @@
 <url> <loc>https://learning.neoito.com/git</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://learning.neoito.com/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://learning.neoito.com/introduction</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://learning.neoito.com/linux</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://learning.neoito.com/nativescript</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://learning.neoito.com/newcomers</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://learning.neoito.com/linux</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://learning.neoito.com/python</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://learning.neoito.com/linux/shell</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
