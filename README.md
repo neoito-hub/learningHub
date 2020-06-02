@@ -7,7 +7,7 @@ Website link: https://learn.neoito.com/
 Site is built using gatsby and below are the instructions to add content.
 
 To install and run app;
-
+  
 ```
 yarn install
 yarn start
