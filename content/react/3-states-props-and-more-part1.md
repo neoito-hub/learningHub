@@ -51,7 +51,7 @@ Try typing a web series name, well not able to type right? well you need to add 
 
 Then another problem ? we need to store the value of input field when onChange is triggered, right? 
 
-The answer is __state__
+#### The answer is State
 
 we will be attaching a function to on change to store the value in state. so to use and manipulate state in functional component we will be using a hook called __useState__
 
