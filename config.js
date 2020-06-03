@@ -24,8 +24,8 @@ const config = {
   sidebar: {
     forcedNavOrder: [
       '/introduction', // add trailing slash if enabled above
-      '/newcomers',
       '/linux',
+      '/newcomers',
       '/git',
       '/angular',
       '/python',
