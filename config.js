@@ -29,10 +29,12 @@ const config = {
       '/git',
       '/angular',
       '/python',
-      '/nativescript'
+      '/nativescript',
+      '/react'
     ],
     collapsedNav: [
-      '/linu', // add trailing slash if enabled above
+      '/linu',
+      '/react' // add trailing slash if enabled above
     ],
     links: [{ text: 'Neoito', link: 'https://neoito.com' }],
     frontline: false,
