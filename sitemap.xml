@@ -15,6 +15,6 @@
 <url> <loc>https://learning.neoito.com/UI Mastery/Introduction</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://learning.neoito.com/linux/shell</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://learning.neoito.com/react/1-what-and-why-react</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://learning.neoito.com/react/2-setting-things-up</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://learning.neoito.com/react/3-states-props-and-more-part1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://learning.neoito.com/react/2-setting-things-up</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
