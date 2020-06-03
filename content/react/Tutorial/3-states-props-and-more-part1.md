@@ -207,3 +207,5 @@ __Props__
 __useEffect__
 
 in the next session we will be exploring these, so try making this or varients of the code snippet and try converting it into class based component :).
+
+check this link to figure out how to use state in class based component : [State in react](https://www.youtube.com/watch?v=34fE23aib1o)
