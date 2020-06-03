@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://learning.neoito.com/UI Mastery/scss</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://learning.neoito.com/UI Mastery</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://learning.neoito.com/angular</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://learning.neoito.com/git</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://learning.neoito.com/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -10,6 +12,7 @@
 <url> <loc>https://learning.neoito.com/python</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://learning.neoito.com/react</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://learning.neoito.com/style-guide</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://learning.neoito.com/UI Mastery/Introduction</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://learning.neoito.com/linux/shell</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://learning.neoito.com/react/1-what-and-why-react</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://learning.neoito.com/react/2-setting-things-up</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
