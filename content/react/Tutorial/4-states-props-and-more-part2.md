@@ -86,4 +86,4 @@ Great :) , So the code is clean now and we learned about presentational componen
 
 So now your task is to add a delete button to every Series list rendered in our List component so that we can delete them :) 
 
-Next we will explore about useEffect hook
+Next we will explore about useEffect hook 
