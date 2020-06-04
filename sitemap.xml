@@ -19,5 +19,6 @@
 <url> <loc>https://learning.neoito.com/react/Tutorial/1-what-and-why-react</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://learning.neoito.com/react/Tutorial/2-setting-things-up</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://learning.neoito.com/react/Tutorial/3-states-props-and-more-part1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://learning.neoito.com/react/Tutorial/4-states-props-and-more-part2</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://learning.neoito.com/react/style-guide/style-guide</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
