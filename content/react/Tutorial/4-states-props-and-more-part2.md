@@ -85,3 +85,5 @@ Here we are passing the seriesList state as props into the List component, the s
 Great :) , So the code is clean now and we learned about presentational component, smart component and ofcourse passing properties from parent to child component as props.
 
 So now your task is to add a delete button to every Series list rendered in our List component so that we can delete them :) 
+
+Next we will explore about useEffect hook
