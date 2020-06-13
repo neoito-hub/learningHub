@@ -23,4 +23,30 @@ Explanation of the different parts
 The box model allows us to add a border around elements, and to define space between elements. 
 
 
-**Reference :** https://www.youtube.com/watch?v=rIO5326FgPE
+**Reference :**
+https://www.youtube.com/watch?v=rIO5326FgPE
+
+### Things to learns
+
+* CSS Selectors
+* CSS Box Model
+* CSS Layout
+* Styling Text with CSS
+* Styling Boxes with CSS
+* CSS Units
+* CSS Colors and Gradients
+* CSS Transitions and Animations
+* CSS Transforms
+* CSS Pseudo-classes and Pseudo-elements
+* CSS At-Rules (e.g. Media Queries)
+* CSS Specificity
+* CSS Preprocessors
+
+**Reference :**
+1. https://www.youtube.com/watch?v=1PnVor36_40
+2. https://www.w3schools.com/css/
+
+### Exercises
+
+1. Create a sign up form
+2. Build a Personal Portfolio Webpage
