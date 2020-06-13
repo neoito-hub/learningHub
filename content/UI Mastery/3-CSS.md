@@ -4,6 +4,19 @@ title: "CSS"
 
 # CSS
 
+### What is CSS?
+
+Cascading Style Sheets (CSS) is used to format the layout of a webpage.
+
+CSS can be added to HTML documents in 3 ways:
+
+* Inline - by using the style attribute inside HTML elements
+* Internal - by using a <style> element in the ```<head>``` section
+* External - by using a <link> element to link to an external CSS file
+
+
+### 
+
 ### CSS Box Model
 
 All HTML elements can be considered as boxes. In CSS, the term "box model" is used when talking about design and layout.\
