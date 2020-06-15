@@ -2,7 +2,6 @@
 title: "CSS"
 ---
 
-# CSS
 
 ### What is CSS?
 
