@@ -11,8 +11,6 @@ title: "HTML"
 * HTML elements tell the browser how to display the content
 * HTML elements label pieces of content such as "this is a heading", "this is a paragraph", "this is a link", etc.
 
-<br>
-
 ### HTML <!DOCTYPE>
 
 The declaration is not an HTML tag. It is an "information" to the browser about what document type to expect.\
@@ -20,11 +18,9 @@ In HTML 5, the declaration is simple:
 ```
 <!DOCTYPE html>
 ```
-<br>
-
 ### HTML Layout Elements and Techniques
 
-<img src="https://www.w3schools.com/html/img_sem_elements.gif">/
+<!-- <img src="https://www.w3schools.com/html/img_sem_elements.gif"> -->
 
 ```<header>``` - Defines a header for a document or a section\
 ```<nav>``` - Defines a container for navigation links\
@@ -38,13 +34,11 @@ In HTML 5, the declaration is simple:
 **Reference :**
 1. https://www.youtube.com/watch?v=dMK_3lH1YPo
 
-<br>
 
 ### Anatomy of an HTML element
 
-<img src="https://mdn.mozillademos.org/files/7659/anatomy-of-an-html-element.png">
+<!-- <img src="https://mdn.mozillademos.org/files/7659/anatomy-of-an-html-element.png"> -->
 
-<br>
 
 ### HTML Layout Technique - CSS Flexbox Layout
 
@@ -56,7 +50,7 @@ Before the Flexbox Layout module, there were four layout modes:
 *	Positioned, for explicit position of an element
 
 The Flexible Box Layout Module, makes it easier to design flexible responsive layout structure without using float or positioning.\
-<br>
+
 Use of flexbox ensures that elements behave predictably when the page layout must accommodate different screen sizes and different display devices.
 
 **Reference :** 
