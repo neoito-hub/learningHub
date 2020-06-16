@@ -42,6 +42,7 @@ The box model allows us to add a border around elements, and to define space bet
 
 **Reference :**
 https://www.youtube.com/watch?v=rIO5326FgPE
+[How CSS works](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/How_CSS_works)
 
 ### Things to learns
 
@@ -58,6 +59,63 @@ https://www.youtube.com/watch?v=rIO5326FgPE
 * CSS At-Rules (e.g. Media Queries)
 * CSS Specificity
 * CSS Preprocessors
+
+### CSS animation
+Nowadays, animation has become a necessary thing for designing a website. Microinteraction has become a vital part of any website. So it is very important to understand the basics of CSS animation. 
+ Let’s start with an example: 
+
+```
+.element {
+  animation-name: stretch;
+  animation-duration: 1.5s; 
+  animation-timing-function: ease-out; 
+  animation-delay: 0s;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-fill-mode: none;
+}
+
+	
+	@keyframes stretch{
+	0%{
+		width: 20px;
+	     }
+	100% {
+    width: 50px;
+		}
+	}
+```
+
+- Animation-name : Specifies the name of the @keyframes animation.
+- Animation-duration: Specifies the duration of the animation
+- Animation-timing-function: Specifies the curve in which the animation should work.
+- Animation-delay: Specifies a delay to start the animation.
+- Animation-direction: Specifies the direction in which the animation should work.
+- Animation-iteration-count: Specifies the number of times the animation should work.
+- Animation-fill-mode: Specifies the style to be applied to the element when the animation is complete.
+ 
+```@keyframes``` : It is the one which is responsible to do the expected animation to the particular element.
+
+
+The shorthand for writing the above all is as follows:
+Format:
+```
+.element {
+	Animation: animation-name animation-duration animation-timing-function animation-delay animation-iteration-count animation-fill-mode
+}
+```
+
+You should the same format
+
+Example:
+```
+.element {
+  		animation:  stretch  1.5s ease-out 0s alternate  infinite none;
+}
+```
+Animation: The whole animation effect can be achieved by this shorthand ```animation``` 
+
+
 
 **Reference :**
 1. https://www.youtube.com/watch?v=1PnVor36_40
