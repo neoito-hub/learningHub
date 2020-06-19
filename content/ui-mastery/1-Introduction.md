@@ -15,3 +15,7 @@ UI design is more concerned with the surface and overall feel of a design. UI de
 
 
 ![alt text](https://miro.medium.com/max/1050/1*hp-yfKsmzsj711iLbM8eEw.jpeg "ui vs ux")
+
+**Referance**
+
+https://careerfoundry.com/en/blog/ux-design/the-difference-between-ux-and-ui-design-a-laymans-guide/
