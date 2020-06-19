@@ -17,7 +17,7 @@ title: "UI Debug Tools"
 
 When styling the page, sometimes you need to tweak the rules like padding, margin or color a little to get the perfect appearance. The side bar of the Elements panel has the Styles and Computed tabs, which allow you to dynamically change the applied styles to the selected element in the Elements panel, and even find the origin of the style rule. It also allows you to filter the styles, force different states (:hov) such as hovered, active, focused, add/remove classes easily (:cls). This is also useful in scenarios where the layout or appearance of the control is broken to find out which style is breaking the design.
 
-![alt text](https://d585tldpucybw.cloudfront.net/sfimages/default-source/aspnet/inspectelements.gif?sfvrsn=cc13f909_1 "Inspect element")
+![alt text](https://d585tldpucybw.cloudfront.net/sfimages/default-source/aspnet/checkappliedstyles.gif?sfvrsn=5b894ee5_1 "Inspect element")
 
 ### Tips
 
