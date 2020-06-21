@@ -1,0 +1,7 @@
+# Conclusion
+
+This is just a brief overview of Vue.js. A Vue.js introduction can be a whole book within itself, but I hope this provides you with a general overview of this fun and progressive framework. I strongly encourage you to check out the [official documentation](https://vuejs.org/v2/guide/) anyday.
+
+Whether you are an experienced Vue.js developer, or if this was your first introduction, there's a lot to love about Vue.js and its ecosystem. React may be the most used framework today, but tomorrow it's gonna be Vue.js. Less complexity, Structured, integration of best features of React and Angular, it's own style added for a twist of taste, and features like router and store pre-packed in, all this makes Vue.js potentially the best among React and Angular. No wonder why Vue is the the most popular framework on gitHub and hitting more than 90% satisfactory rate among users. 
+
+However, Vue is not the only noteworthy and promising JS front-end framework out there. You'll probably be best off testing out and working with a few frameworks to see for yourself which ones work for your projects and intended use and which do not. So even though we love Vue, it's not a perfect framework. But let's be honest: it's as close to perfect as it can be. And if we're judging frameworks by their learning curve, maintenance continuity, and ability to spur developer productivity, then Vue.js shines like nothing else.
