@@ -22,7 +22,11 @@ header p {
 header a {
     text-decoration: none;
 }
-Sample code SASS:
+```
+
+#### Sample code SASS:
+
+```
 $color: red
 header
     margin: 0
