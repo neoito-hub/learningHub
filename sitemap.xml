@@ -6,6 +6,7 @@
 <url> <loc>https://learning.neoito.com/introduction</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://learning.neoito.com/linux</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://learning.neoito.com/nativescript</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://learning.neoito.com/newcomers-references</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://learning.neoito.com/newcomers</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://learning.neoito.com/python</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://learning.neoito.com/react</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -13,15 +14,15 @@
 <url> <loc>https://learning.neoito.com/ui-mastery</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://learning.neoito.com/vue</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://learning.neoito.com/linux/shell</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://learning.neoito.com/ui-mastery/1-Introduction</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://learning.neoito.com/react/Tutorial</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://learning.neoito.com/ui-mastery/1-Introduction</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://learning.neoito.com/ui-mastery/10-SASS-introduction</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://learning.neoito.com/ui-mastery/11-SCSS-introduction</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://learning.neoito.com/ui-mastery/12-workshop-practice-3</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://learning.neoito.com/ui-mastery/13-UI-debug-tools</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://learning.neoito.com/ui-mastery/14-Optimization</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://learning.neoito.com/ui-mastery/15-UI-standards</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://learning.neoito.com/ui-mastery/2-HTML</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://learning.neoito.com/ui-mastery/14-Optimization</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://learning.neoito.com/ui-mastery/3-CSS</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://learning.neoito.com/ui-mastery/4-HTML-Accessibility</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://learning.neoito.com/ui-mastery/5-JS-basics</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
