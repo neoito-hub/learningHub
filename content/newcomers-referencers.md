@@ -1,4 +1,4 @@
-# A Guide for newcomers
+# References for newcomers 
 
 This is more of a curriculum to get started on your web development
 career at the dojo. It is preffered to follow this guide in order.
