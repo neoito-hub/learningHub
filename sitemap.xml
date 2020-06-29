@@ -18,7 +18,6 @@
 <url> <loc>https://learning.neoito.com/ui-mastery/1-Introduction</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://learning.neoito.com/ui-mastery/10-SASS-introduction</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://learning.neoito.com/ui-mastery/11-SCSS-introduction</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://learning.neoito.com/ui-mastery/12-workshop-practice-3</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://learning.neoito.com/ui-mastery/13-UI-debug-tools</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://learning.neoito.com/ui-mastery/14-Optimization</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://learning.neoito.com/ui-mastery/15-UI-standards</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -27,6 +26,7 @@
 <url> <loc>https://learning.neoito.com/ui-mastery/4-HTML-Accessibility</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://learning.neoito.com/ui-mastery/5-JS-basics</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://learning.neoito.com/ui-mastery/6-workshop-practice-1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://learning.neoito.com/ui-mastery/12-workshop-practice-3</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://learning.neoito.com/ui-mastery/7-flexbox-and-media-query</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://learning.neoito.com/ui-mastery/8-Introduction-of-bootstrap</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://learning.neoito.com/ui-mastery/9-workshop-practice-2</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -41,5 +41,7 @@
 <url> <loc>https://learning.neoito.com/react/Tutorial/2-setting-things-up</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://learning.neoito.com/react/Tutorial/3-states-props-and-more-part1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://learning.neoito.com/react/Tutorial/4-states-props-and-more-part2</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://learning.neoito.com/react/Tutorial/5-useEffect</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://learning.neoito.com/react/Tutorial/6-conclusion</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://learning.neoito.com/react/style-guide/style-guide</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
