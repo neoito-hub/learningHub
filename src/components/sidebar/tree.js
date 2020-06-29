@@ -5,12 +5,12 @@ import TreeNode from './treeNode';
 const calculateTreeData = edges => {
   const originalData = config.sidebar.ignoreIndex
     ? edges.filter(
-        ({
-          node: {
-            fields: { slug },
-          },
-        }) => slug !== '/'
-      )
+      ({
+        node: {
+          fields: { slug },
+        },
+      }) => slug !== '/'
+    )
     : edges;
 
   const tree = originalData.reduce(
@@ -97,11 +97,19 @@ const calculateTreeData = edges => {
     }
     // sort items alphabetically.
     prevItems.map(item => {
-      item.items = item.items.sort(function(a, b) {
-        if (a.label < b.label) return -1;
-        if (a.label > b.label) return 1;
-        return 0;
+      item.items.sort(function (a, b) {
+        return a.label.localeCompare(b.label, undefined, { numeric: true, sensitivity: 'base' });
       });
+
+      // item.items = item.items.sort(function (a, b) {
+      // if (a.label < b.label) {
+      //   return -1;
+      // } else if (a.label > b.label) {
+      //   return 1;
+      // } else {
+      //   return 0;
+      // }
+      //});
     });
     const slicedLength =
       config.gatsby && config.gatsby.trailingSlash ? parts.length - 2 : parts.length - 1;

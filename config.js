@@ -30,11 +30,13 @@ const config = {
       '/angular',
       '/python',
       '/nativescript',
-      '/react'
+      '/react',
+      '/vue'
     ],
     collapsedNav: [
-      '/linu',
-      '/react' // add trailing slash if enabled above
+      '/linux',
+      '/react',
+      '/vue' // add trailing slash if enabled above
     ],
     links: [{ text: 'Neoito', link: 'https://neoito.com' }],
     frontline: false,
