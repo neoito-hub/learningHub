@@ -26,6 +26,7 @@ const config = {
       '/introduction', // add trailing slash if enabled above
       '/linux',
       '/newcomers',
+      '/newcomers-references',
       '/git',
       '/angular',
       '/python',
