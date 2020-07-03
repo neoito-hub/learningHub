@@ -1,14 +1,14 @@
-## We use Freecodecamp as our curriculum platform.
+## Newcomers Curriculam
+
+Hey noob,
+
+We use freecodecamp ( a non profit learning platform for Devs).  
 
 https://www.freecodecamp.org/learn
 
-Report to your leader the daily progress as a screenshot. Like this
+Web pages / websites are built with HTML, CSS and JS : watch this https://www.youtube.com/watch?v=1K64fWX5z4U&feature=youtu.be
 
-<img src="https://github.com/neoito-hub/learningHub/raw/master/src/components/images/FCC-progress.png"  width="400"/>
-
-You have to go through each of the sections listed below.
-
-Start with
+So Let's begin with
 
 - Responsive Web design certification
 
@@ -23,3 +23,7 @@ Start with
 <img src="https://github.com/neoito-hub/learningHub/raw/master/src/components/images/FCC-apis-mongo.png"  width="400"/>
 
 After completing these basics your leader will give you a simple task to assess your skill.
+
+You can take a screenshot to share the progress and achievements with others ( to your manager or team lead) like the one below. 
+
+<img src="https://github.com/neoito-hub/learningHub/raw/master/src/components/images/FCC-progress.png"  width="400"/>
