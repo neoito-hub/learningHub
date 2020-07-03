@@ -6,7 +6,9 @@ We use freecodecamp ( a non profit learning platform for Devs).
 
 https://www.freecodecamp.org/learn
 
-Web pages / websites are built with HTML, CSS and JS : Watch this https://www.youtube.com/watch?v=1K64fWX5z4U&feature=youtu.be
+Web pages / websites are built with HTML, CSS and JS 
+
+Watch this https://www.youtube.com/watch?v=1K64fWX5z4U&feature=youtu.be
 
 So Let's begin with
 
