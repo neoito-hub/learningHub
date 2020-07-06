@@ -2,19 +2,23 @@
 
 Hey noob,
 
-We use freecodecamp ( a non profit learning platform for Devs).
+We use [freecodecamp](https://www.freecodecamp.org/learn) ( a non profit learning platform for Devs).
 
-https://www.freecodecamp.org/learn
+Before you start the curriculum, join our community channel through https://discord.gg/PZhsKS. Everyone will be redy to help you. Use the right channel to ask your question in the <strong> Need help!</strong> channels. Eg. Use `help-html` to start discussion about html.
 
-Before you start the curriculum, join our community channel through https://discord.gg/yfxxgmH
+## Introduction
 
-Web pages / websites are built with HTML, CSS and JS
+Web pages / websites are built with HTML, CSS and JS. See the following videos to know the history of web.
 
-Watch this https://www.youtube.com/watch?v=1K64fWX5z4U&feature=youtu.be
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1K64fWX5z4U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Course
 
 So Let's begin with
 
-- Responsive Web design certification
+- ### Responsive Web design certification
+
+These are the fundamentals of HTML, CSS. Complete the course and get an idea
 
 <img src="https://github.com/neoito-hub/learningHub/raw/master/src/components/images/FCC-html-css.png"  width="400"/>
 
@@ -24,11 +28,20 @@ At the end of this course you have to submit an html page that is responsive als
 
 <img src="https://github.com/neoito-hub/learningHub/raw/master/src/components/images/resume-mobile.png"  width="400"/>
 
-- JavaScript Algorithms and Data Structures
+- ### Learn Git and github
+  The wonderful website you created can be published in github using the git tool. Learn about that here.
+
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/SWYqp7iY_Tc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+At the end of this you should have a github account and your resume page code should be pushed to a repository.
+
+- ### JavaScript Algorithms and Data Structures
+
+You have to learn the basics of Javascript. Complete the curriculum in Freecodecamp
 
 <img src="https://github.com/neoito-hub/learningHub/raw/master/src/components/images/FCC-js.png"  width="400"/>
 
-- APIs and Microservices Certification (300 hours)
+- ### APIs and Microservices Certification (
 
 <img src="https://github.com/neoito-hub/learningHub/raw/master/src/components/images/FCC-apis-mongo.png"  width="400"/>
 
