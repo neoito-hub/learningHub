@@ -1,4 +1,4 @@
-## Newcomers Curriculam
+## Newcomers Curriculum
 
 Hey noob,
 
@@ -6,7 +6,7 @@ We use freecodecamp ( a non profit learning platform for Devs).
 
 https://www.freecodecamp.org/learn
 
-Before you start the curriculam, join our community channel through https://discord.gg/yfxxgmH
+Before you start the curriculum, join our community channel through https://discord.gg/yfxxgmH
 
 Web pages / websites are built with HTML, CSS and JS
 
