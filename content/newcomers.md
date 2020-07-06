@@ -20,7 +20,7 @@ At the end of this course you have to submit an html page that is responsive als
 
 <img src="https://github.com/neoito-hub/learningHub/raw/master/src/components/images/resume.jpg"  width="400"/>
 
-<img src="https://github.com/neoito-hub/learningHub/raw/master/src/components/images/resume-mobile.jpg"  width="400"/>
+<img src="https://github.com/neoito-hub/learningHub/raw/master/src/components/images/resume-mobile.png"  width="400"/>
 
 - JavaScript Algorithms and Data Structures
 
