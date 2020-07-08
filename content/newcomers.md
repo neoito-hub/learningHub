@@ -6,7 +6,7 @@ Nullcast is a community of developers to create content and learn about all rela
 
 Join our community channel through https://discord.gg/PZhsKS. 
 
-Inside Discord, use the right channel to ask your questions about <strong> NEED HELP!</strong>. Eg. `help-html` for discussions about html.
+Under the <strong> NEED HELP!</strong> use the right channel to ask your questions. For Eg. `help-html` for discussions about html.
 
 ## Root
 
