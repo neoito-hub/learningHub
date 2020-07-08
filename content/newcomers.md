@@ -12,7 +12,7 @@ Inside Discord, use the right channel to ask your question in <strong> NEED HELP
 
 HTML, CSS, and JavaScript are the main building blocks of websites/web apps. Before jump into the curriculum, watch these videos about how the web and internet evolve as the one we see right now.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dxcc6ycZ73M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Curriculum
 
