@@ -2,9 +2,9 @@
 
 Hello world!
 
-Nullcast is a community of developers to create content and learn about all related to the web. 
+Nullcast is a community of developers to create content and learn about all related to the web.
 
-Join our community channel through https://discord.gg/PZhsKS. 
+Join our community channel through https://discord.gg/PJzjBPx.
 
 Under the <strong> NEED HELP!</strong> use the right channel to ask your questions. For Eg. `help-html` for discussions about html.
 
@@ -18,7 +18,7 @@ HTML, CSS, and JavaScript are the main building blocks of websites/web apps. Bef
 
 We use [freecodecamp](https://www.freecodecamp.org/learn) ( a non-profit learning platform for Devs) as our main course content.
 
-Start with, 
+Start with,
 
 - ### Responsive Web design certification
 
@@ -28,7 +28,7 @@ You will learn the fundamentals of HTML and CSS. Complete the course to become a
 
 <img src="https://github.com/neoito-hub/learningHub/raw/master/src/components/images/FCC-html-css.png" width="400"/>
 
-After completing the course design the below page. 
+After completing the course design the below page.
 Ask questions through `help-html` and `help-css` channel. Also at this point, learn about git and github.
 
 <img src="https://github.com/neoito-hub/learningHub/raw/master/src/components/images/resume.jpg"  width="400"/>
