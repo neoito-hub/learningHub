@@ -99,7 +99,7 @@
 
     Implicit Binding
     Explicit Binding
-    new Binnding
+    new Binding
     Lexical Binding
     Default Binding
 
