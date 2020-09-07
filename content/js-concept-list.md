@@ -135,8 +135,9 @@
 DOM
 XHR & Fetch
 
-# Array methods
+# Array methods [Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
 
+```
 Array.from()
 Array.isArray()
 Array.of()
@@ -172,9 +173,11 @@ Array.prototype.toLocaleString()
 Array.prototype.toString()
 Array.prototype.unshift()
 Array.prototype.unshift()
+```
 
-# Objects
+# Objects [Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object)
 
+```
 Object.assign()
 Object.create()
 Object.entries()
@@ -184,3 +187,4 @@ Object.keys()
 Object.isFrozen()
 Object.isExtensible()
 Object.values()
+```
