@@ -14,3 +14,7 @@ Marvelapp Link: https://marvelapp.com/ed5697b
 #### Time: 16 HOURS.
 
 ![workshop1 Neoito](/workshop1.jpg)
+
+
+## Check the performance Audit
+[Try to make the performance audit score to 80](https://developers.google.com/web/tools/lighthouse/)
