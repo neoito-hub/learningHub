@@ -31,10 +31,6 @@ You will learn the fundamentals of HTML and CSS. Complete the course to become a
 After completing the course design the below page.
 Ask questions through `help-html` and `help-css` channel. Also at this point, learn about git and github.
 
-<img src="https://github.com/neoito-hub/learningHub/raw/master/src/components/images/resume.jpg"  width="400"/>
-
-<img src="https://github.com/neoito-hub/learningHub/raw/master/src/components/images/resume-mobile.png"  width="400"/>
-
 - ### Git and GitHub
 
  <iframe width="560" height="315" src="https://www.youtube.com/embed/SWYqp7iY_Tc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
