@@ -1,5 +1,5 @@
 ---
-title: "Workshop practice 3"
+title: "Workshop practice 2"
 ---
 
 ## SASS OR SCSS Workshop
@@ -10,7 +10,7 @@ Marvelapp Link: https://marvelapp.com/22ee35j6
 
 [Download Assets](/Workshops/workshop-practice-3.zip)
 
-### Workshop practice 3: 
+### Workshop practice 2: 
 #### Time: 16 HOURS.
 
 ![workshop1 Neoito](/workshop3.jpg)

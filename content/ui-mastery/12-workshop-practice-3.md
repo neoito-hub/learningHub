@@ -1,5 +1,5 @@
 ---
-title: "Workshop practice 2"
+title: "Workshop practice 3"
 ---
 
 ## Bootstrap Workshop
@@ -12,7 +12,7 @@ Marvelapp Link: https://marvelapp.com/63hbc84/screen/69166398
 
 *Please find __responsive design__ in Assets folder*
 
-### Workshop practice 2: 
+### Workshop practice 3: 
 #### Time: 24 HOURS.
 
 ![workshop2 Neoito](/workshop2.jpg)
