@@ -46,12 +46,12 @@ https://www.youtube.com/watch?v=rIO5326FgPE
 
 ### Things to learns
 
-* CSS Selectors
-* CSS Box Model
-* CSS Layout
-* Styling Text with CSS
+* [CSS Selectors](https://css-tricks.com/how-css-selectors-work/)
+* [CSS Box Model](https://css-tricks.com/the-css-box-model/)
+* [CSS Layout](http://learnlayout.com/)
+* [Styling Text with CSS](https://www.inwebson.com/css3/css-tricks-for-headings-fonts-and-text-styling/)
+* [CSS Units](https://ishadeed.com/article/viewport-units/)
 * Styling Boxes with CSS
-* CSS Units
 * CSS Colors and Gradients
 * CSS Transitions and Animations
 * CSS Transforms
@@ -59,6 +59,7 @@ https://www.youtube.com/watch?v=rIO5326FgPE
 * CSS At-Rules (e.g. Media Queries)
 * CSS Specificity
 * CSS Preprocessors
+* [Typography](https://css-tricks.com/typography-for-developers/)
 
 ### CSS animation
 Nowadays, animation has become a necessary thing for designing a website. Microinteraction has become a vital part of any website. So it is very important to understand the basics of CSS animation. 

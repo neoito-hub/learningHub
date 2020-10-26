@@ -1,19 +1,22 @@
 ---
-title: "Workshop practice 3"
+title: "Workshop practice 2"
 ---
 
-## SASS OR SCSS Workshop
+## Bootstrap Workshop
 
-Use `SASS`or `SCSS`.
+Use `Bootstrap`.
 
-Marvelapp Link: https://marvelapp.com/22ee35j6
+Marvelapp Link: https://marvelapp.com/63hbc84/screen/69166398
 
-[Download Assets](/Workshops/workshop-practice-3.zip)
+[Download Assets](/Workshops/workshop-practice-2.zip)
 
-### Workshop practice 3: 
-#### Time: 16 HOURS.
+*Please find __responsive design__ in Assets folder*
 
-![workshop1 Neoito](/workshop3.jpg)
+### Workshop practice 2: 
+#### Time: 24 HOURS.
+
+![workshop2 Neoito](/workshop2.jpg)
+
 
 
 ## Check the performance Audit
