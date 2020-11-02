@@ -16,14 +16,14 @@ Marvelapp Link: https://marvelapp.com/22ee35j6
 ![workshop1 Neoito](/workshop3.jpg)
 
 ## Instructions 
-* Use SASS/SCSS
 * Body should be 100% width.
-* Base font-size should be 16px.
-* Use base font-family: Helvetica.
+* Base font-size should be 17px.
+* Can use alternative google fonts (eg: Lato).
 * Use flexbox or grid layout.
 * Use material icons or font awesome icons.
 * Images, CSS, JS should be compressed.
 * Don't use inline CSS.
+* Use slick https://kenwheeler.github.io/slick/ for carousel.
 
 ## Check the performance Audit
 [Try to make the performance audit score to 90+](https://developers.google.com/web/tools/lighthouse/)
