@@ -22,7 +22,7 @@ Marvelapp Link: https://marvelapp.com/ed5697b
 * Use flexbox or grid layout.
 * Use material icons or font awesome icons.
 * Images, CSS, JS should be compressed.
-* Dont use inline CSS.
+* Don't use inline CSS.
 
 ## Check the performance Audit
 [Try to make the performance audit score to 80](https://developers.google.com/web/tools/lighthouse/)
