@@ -20,7 +20,7 @@ Marvelapp Link: https://marvelapp.com/63hbc84/screen/69166398
 ## Instructions 
 * Body should be 100% width.
 * Base font-size should be 14px.
-* Can use base font-family: OpenSans.
+* Use base font-family: OpenSans.
 * Use flexbox or grid layout.
 * Use material icons or font awesome icons.
 * Images, CSS, JS should be compressed.
