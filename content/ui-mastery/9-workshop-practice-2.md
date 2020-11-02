@@ -23,7 +23,8 @@ Marvelapp Link: https://marvelapp.com/22ee35j6
 * Use material icons or font awesome icons.
 * Images, CSS, JS should be compressed.
 * Don't use inline CSS.
-* Use slick https://kenwheeler.github.io/slick/ for carousel.
+* Faq section should be accordion 
+
 
 ## Check the performance Audit
 [Try to make the performance audit score to 90+](https://developers.google.com/web/tools/lighthouse/)
