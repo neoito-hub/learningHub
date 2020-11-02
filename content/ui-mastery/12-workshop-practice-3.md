@@ -25,7 +25,7 @@ Marvelapp Link: https://marvelapp.com/63hbc84/screen/69166398
 * Use material icons or font awesome icons.
 * Images, CSS, JS should be compressed.
 * Don't use inline CSS.
-* Menus and Our services section should have hover effect.
+* Menus, services, portfolio sections should have hover effect.
 * Use slick https://kenwheeler.github.io/slick/ for carousel.
 
 ## Check the performance Audit
