@@ -8,7 +8,7 @@ Use `Flexbox layouting`, `Html`, `css` and `javascript`.
 
 Marvelapp Link: https://marvelapp.com/ed5697b
 
-[Download Assets](/Workshops/workshop-practice-1.zip)
+[Download Assets](https://drive.google.com/file/d/1YI26TfUDmLItyBTgHcNnLxRdqLXc22hV/view?usp=sharing)
 
 ### Workshop practice 1: 
 #### Time: 16 HOURS.
