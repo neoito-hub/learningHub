@@ -8,7 +8,7 @@ Use `SASS`or `SCSS`.
 
 Marvelapp Link: https://marvelapp.com/22ee35j6
 
-[Download Assets](/Workshops/workshop-practice-3.zip)
+[Download Assets](https://drive.google.com/file/d/1YI26TfUDmLItyBTgHcNnLxRdqLXc22hV/view?usp=sharing)
 
 ### Workshop practice 2: 
 #### Time: 16 HOURS.
