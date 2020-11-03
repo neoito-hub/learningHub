@@ -8,7 +8,7 @@ Use `Bootstrap`.
 
 Marvelapp Link: https://marvelapp.com/63hbc84/screen/69166398
 
-[Download Assets](/Workshops/workshop-practice-2.zip)
+[Download Assets](https://drive.google.com/file/d/1IQe9xXhJhKxYXh_uuNP9Z_M7DSB1ra3Z/view?usp=sharing)
 
 *Please find __responsive design__ in Assets folder*
 
