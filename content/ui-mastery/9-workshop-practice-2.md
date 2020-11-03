@@ -24,7 +24,7 @@ Marvelapp Link: https://marvelapp.com/22ee35j6
 * Images, CSS, JS should be compressed.
 * Don't use inline CSS.
 * 'How does it work' section should have hover effect. 
-* Faq section should be accordion 
+* Faq section should be accordion.
 
 
 ## Check the performance Audit
