@@ -1,12 +1,7 @@
+# Quick look into react ?
 
-# Quick look into react ? 
-[what and why react](/react/1-what-and-why-react)
+[What and why react](/react/Tutorial/1-what-and-why-react)
 
-[setting things up](/react/2-setting-things-up)
+[Setting things up](/react/Tutorial/2-setting-things-up)
 
-[states props and more](/react/3-states-props-and-more)
-
-
-
-
-
+[States props and more](/react/Tutorial/3-states-props-and-more-part1)
