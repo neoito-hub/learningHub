@@ -43,46 +43,6 @@ export default class HTML extends React.Component {
             }}
           />
         </body>
-        <style
-            dangerouslySetInnerHTML={{
-              __html: `
-            .content {
-              display: 'none';
-              opacity: 0;
-              transition: opacity .20s linear;
-            }
-            .content.show {
-              display: 'block';
-              opacity: 1;
-              transition: opacity .20s linear;
-            }
-          `,
-            }}
-          />
-          <div
-            id="loading"
-            dangerouslySetInnerHTML={{
-              __html: `<div class="page-loading" style= "
-                min-height: 100vh;
-                width: 100%;
-                display: flex;
-                align-items: center;
-                font-family: sans-serif;
-                justify-content: center;
-            ">
-            <span class="" style="
-                font-size: 2em;
-                margin-top: -3em;
-                color: #848484;
-            ">
-              Loading...
-              </span>
-            </div>`,
-            }}
-          />
-
-          <div id="content" className="content " />
-      </html>
     );
   }
 }
