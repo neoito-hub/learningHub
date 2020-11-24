@@ -43,6 +43,7 @@ export default class HTML extends React.Component {
             }}
           />
         </body>
+      </html>
     );
   }
 }
