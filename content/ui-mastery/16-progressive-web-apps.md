@@ -2,7 +2,7 @@
 title: "Progressive web apps"
 ---
 
-## 1. Create the manifest file
+## 1. Create the Manifest file
 
 The web app manifest is a JSON file that tells the browser about your Progressive Web App and how it should behave when installed on the user's desktop or mobile device. A typical manifest file includes the app name, the icons the app should use, and the URL that should be opened when the app is launched.
 
