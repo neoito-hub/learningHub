@@ -2,9 +2,7 @@
 title: "Progressive web apps"
 ---
 
-# Progressive web apps
-
-## Create the manifest file
+## 1. Create the manifest file
 
 The web app manifest is a JSON file that tells the browser about your Progressive Web App and how it should behave when installed on the user's desktop or mobile device. A typical manifest file includes the app name, the icons the app should use, and the URL that should be opened when the app is launched.
 
@@ -85,7 +83,7 @@ Here is an example web app manifest
 ```
 
 
-## Create the Service Worker
+## 2. Create the Service Worker
 
 When service workers are used with the fetch event, you can set up caching of assets and pages as the user browses. This makes content available offline and loads it significantly faster.
 
