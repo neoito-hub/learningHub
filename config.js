@@ -6,7 +6,7 @@ const config = {
     trailingSlash: false,
   },
   header: {
-    logo: 'https://www.neoito.com/images/neoito.svg',
+    logo: 'https://www.neoito.com/assets/images/neoito.svg',
     logoLink: '/',
     title:
       "learningHub",
@@ -50,7 +50,7 @@ const config = {
     description: 'Style guides and learning materials for devs, to build lightning fast apps 🚀 | learningHub',
     ogImage: null,
     docsLocation: 'https://github.com/neoito-hub/learningHub',
-    favicon: 'https://www.neoito.com/images/neoito.svg',
+    favicon: 'https://www.neoito.com/assets/images/favicon.ico',
   },
   pwa: {
     enabled: false, // disabling this will also remove the existing service worker.
