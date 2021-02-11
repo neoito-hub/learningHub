@@ -23,7 +23,6 @@ const config = {
   },
   sidebar: {
     forcedNavOrder: [
-      '/introduction', // add trailing slash if enabled above
       '/linux',
       '/newcomers',
       '/newcomers-references',
