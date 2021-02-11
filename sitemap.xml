@@ -2,6 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url> <loc>https://learning.neoito.com/angular</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://learning.neoito.com/git</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://learning.neoito.com/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://learning.neoito.com/introduction</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://learning.neoito.com/js-concept-list</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://learning.neoito.com/linux</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -9,7 +10,6 @@
 <url> <loc>https://learning.neoito.com/newcomers-references</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://learning.neoito.com/newcomers</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://learning.neoito.com/python</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://learning.neoito.com/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://learning.neoito.com/react</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://learning.neoito.com/style-guide</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://learning.neoito.com/ui-mastery</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
