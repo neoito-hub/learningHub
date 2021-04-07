@@ -101,7 +101,7 @@ In general, avoid using ```role```. Use semantic HTML elements that implicitly h
 
 To provide markup with accessible names, ensure every:
 
-* ```input``` has an associated ```label``` .
+* ```input``` has an associated ```label```.
 * ```button``` and ```a``` have child text, or ```aria-label``` when text isn’t present. For example, an icon button with no visible text.
 * ```img``` has an ```alt``` attribute.
 * ```fieldset``` has ```legend``` as its first child.
@@ -116,9 +116,9 @@ Prefer no tabindex to using tabindex, since:
 * Tabbing order should match the visual reading order and positive ```tabindex``` interfere with this
 
 
-### Avoid using ```tabindex="0"``` to make an element interactive
+### Avoid using tabindex="0" to make an element interactive
 
-Use interactive elements instead of ```div``` and ```span``` . For example:
+Use interactive elements instead of ```div```s and ```span```s . For example:
 
 * If the element should be clickable, use a ```button```
 * If the element should be text editable, use an ```input``` or ```textarea```
@@ -133,7 +133,7 @@ Once the markup is semantically complete, use CSS to update it to its desired vi
 <button @click="expand">Expand</button>
 ```
 
-### Do not use ```tabindex="0"``` on interactive elements
+### Do not use tabindex="0" on interactive elements
 
 Interactive elements are already tab accessible so adding ```tabindex``` is redundant.
 
@@ -147,7 +147,7 @@ Interactive elements are already tab accessible so adding ```tabindex``` is redu
 <button>Submit</button>
 ```
 
-### Do not use ```tabindex="0"``` on elements for screen readers to read
+### Do not use tabindex="0" on elements for screen readers to read
 
 Screen readers can read text that is not tab accessible. The use of ```tabindex="0"``` is unnecessary and can cause problems, as screen reader users then expect to be able to interact with it.
 
