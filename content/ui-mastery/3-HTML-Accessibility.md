@@ -34,7 +34,7 @@ Keyboard users rely on focus outlines to understand where they are on the page. 
 * It can receive keyboard focus.
 * It has a visible focus state.
 
-Use semantic HTML, such as ```a``` and ```button```, which provides these behaviours by default.
+Use semantic HTML, such as ```a``` and ```button``` , which provides these behaviours by default.
 
 ### Headings Are Important
 
@@ -101,7 +101,7 @@ In general, avoid using ```role```. Use semantic HTML elements that implicitly h
 
 To provide markup with accessible names, ensure every:
 
-* ```input``` has an associated ```label```.
+* ```input``` has an associated ```label``` .
 * ```button``` and ```a``` have child text, or ```aria-label``` when text isn’t present. For example, an icon button with no visible text.
 * ```img``` has an ```alt``` attribute.
 * ```fieldset``` has ```legend``` as its first child.
@@ -113,12 +113,12 @@ To provide markup with accessible names, ensure every:
 Prefer no tabindex to using tabindex, since:
 
 * Using semantic HTML such as ```button``` implicitly provides ```tabindex="0"```
-* Tabbing order should match the visual reading order and positive ```tabindex```s interfere with this
+* Tabbing order should match the visual reading order and positive ```tabindex``` interfere with this
 
 
-### Avoid using tabindex="0" to make an element interactive
+### Avoid using ```tabindex="0"``` to make an element interactive
 
-Use interactive elements instead of ```div```s and ```span```s. For example:
+Use interactive elements instead of ```div``` and ```span``` . For example:
 
 * If the element should be clickable, use a ```button```
 * If the element should be text editable, use an ```input``` or ```textarea```
@@ -161,4 +161,4 @@ Screen readers can read text that is not tab accessible. The use of ```tabindex=
 
 ### Do not use a positive tabindex
 
-Always avoid using tabindex="1" or greater.
+Always avoid using ```tabindex="1"``` or greater.
