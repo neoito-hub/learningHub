@@ -10,7 +10,9 @@ Write HTML with accessibility in mind. Provide the user a good way to navigate a
 
 Semantic HTML means using correct HTML elements for their correct purpose as much as possible. Semantic elements are elements with a meaning; if you need a button, use the ```<button>``` element (and not a ```<div>```).
 
-```<button>Click Me</button>```
+```
+<button>Click Me</button>
+```
 
 Semantic HTML gives context to screen readers, which read the contents of a web page out loud.
 
@@ -50,7 +52,9 @@ The alt attribute provides an alternate text for an image, if the user for some 
 
 The value of the alt attribute should describe the image, If a browser cannot find an image, it will display the value of the alt attribute.
 
-```<img src="img_chania.jpg" alt="Flowers in Chania">```
+```
+<img src="img_chania.jpg" alt="Flowers in Chania">
+```
 
 ### Declare the Language
 
@@ -82,7 +86,9 @@ A link should explain clearly what information the reader will get by clicking o
 
 The title attribute specifies extra information about an element. The information is most often shown as a tooltip text when the mouse moves over the element.
 
-```<a href="https://github.com/neoito-hub/" title="Go to Neoito Hub">Visit our Neoito Hub</a>```
+```
+<a href="https://github.com/neoito-hub/" title="Go to Neoito Hub">Visit our Neoito Hub</a>
+```
 
 ### Role
 
