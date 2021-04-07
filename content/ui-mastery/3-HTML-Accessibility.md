@@ -29,6 +29,18 @@ Examples of non-semantic elements: ```<div>``` and ```<span>``` - Tells nothing 
 
 Examples of semantic elements: ```<form>```, ```<table>```, and ```<article>``` - Clearly defines its content.
 
+Ensure the accessible name is descriptive enough 
+
+```
+// bad
+<button>Submit</button>
+<a href="url">page</a>
+
+// good
+<button>Submit review</button>
+<a href="url">Neoito's accessibility page</a>
+```
+
 ### Support keyboard-only use
 
 Keyboard users rely on focus outlines to understand where they are on the page. Therefore, if an element is interactive you must ensure:
