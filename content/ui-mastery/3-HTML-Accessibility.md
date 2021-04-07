@@ -86,7 +86,7 @@ The title attribute specifies extra information about an element. The informatio
 
 ### Role
 
-In general, avoid using ```role```. Use semantic HTML elements that implicitly have a ```role`` instead.
+In general, avoid using ```role```. Use semantic HTML elements that implicitly have a ```role``` instead.
 
 ```
 // bad
