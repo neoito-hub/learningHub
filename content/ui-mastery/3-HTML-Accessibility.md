@@ -27,6 +27,15 @@ Examples of non-semantic elements: ```<div>``` and ```<span>``` - Tells nothing 
 
 Examples of semantic elements: ```<form>```, ```<table>```, and ```<article>``` - Clearly defines its content.
 
+### Support keyboard-only use
+
+Keyboard users rely on focus outlines to understand where they are on the page. Therefore, if an element is interactive you must ensure:
+
+* It can receive keyboard focus.
+* It has a visible focus state.
+
+Use semantic HTML, such as ```a``` and ```button```, which provides these behaviours by default.
+
 ### Headings Are Important
 
 Headings are defined with the ```<h1>``` to ```<h6>```.  Search engines use the headings to index the structure and content of your web pages.
@@ -75,3 +84,81 @@ The title attribute specifies extra information about an element. The informatio
 
 ```<a href="https://github.com/neoito-hub/" title="Go to Neoito Hub">Visit our Neoito Hub</a>```
 
+### Role
+
+In general, avoid using ```role```. Use semantic HTML elements that implicitly have a ```role`` instead.
+
+```
+// bad
+<div role="button">
+
+// good
+<button>
+```
+
+
+### Provide accessible names to screen readers
+
+To provide markup with accessible names, ensure every:
+
+* ```input``` has an associated ```label```.
+* ```button``` and ```a``` have child text, or ```aria-label``` when text isn’t present. For example, an icon button with no visible text.
+* ```img``` has an ```alt``` attribute.
+* ```fieldset``` has ```legend``` as its first child.
+* ```figure``` has ```figcaption``` as its first child.
+* ```table``` has ```caption``` as its first child.
+
+### Tabindex
+
+Prefer no tabindex to using tabindex, since:
+
+* Using semantic HTML such as ```button``` implicitly provides ```tabindex="0"```
+* Tabbing order should match the visual reading order and positive ```tabindex```s interfere with this
+
+
+### Avoid using tabindex="0" to make an element interactive
+
+Use interactive elements instead of ```div```s and ```span```s. For example:
+
+* If the element should be clickable, use a ```button```
+* If the element should be text editable, use an ```input``` or ```textarea```
+
+Once the markup is semantically complete, use CSS to update it to its desired visual state.
+
+```
+// bad
+<div role="button" tabindex="0" @click="expand">Expand</div>
+
+// good
+<button @click="expand">Expand</button>
+```
+
+### Do not use ```tabindex="0"``` on interactive elements
+
+Interactive elements are already tab accessible so adding ```tabindex``` is redundant.
+
+```
+// bad
+<a href="help" tabindex="0">Help</a>
+<button tabindex="0">Submit</button>
+
+// good
+<a href="help">Help</a>
+<button>Submit</button>
+```
+
+### Do not use ```tabindex="0"``` on elements for screen readers to read
+
+Screen readers can read text that is not tab accessible. The use of ```tabindex="0"``` is unnecessary and can cause problems, as screen reader users then expect to be able to interact with it.
+
+```
+// bad
+<span tabindex="0" :aria-label="message">{{ message }}</span>
+
+// good
+<p>{{ message }}</p>
+```
+
+### Do not use a positive tabindex
+
+Always avoid using tabindex="1" or greater.
