@@ -17,7 +17,7 @@ Figma Link Mobile: https://www.figma.com/file/mM4IQfgmtYfTU61YljEvVA/UI-Developm
 ### Workshop practice 2: 
 #### Time: 48 HOURS.
 
-![workshop1 Neoito](/workshop3.jpg)
+![workshop2 Neoito](/workshop3.jpg)
 
 ## Instructions 
 * Body should be 100% width.

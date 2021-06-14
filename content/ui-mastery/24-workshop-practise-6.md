@@ -10,7 +10,7 @@ Figma Link: https://www.figma.com/file/mM4IQfgmtYfTU61YljEvVA/UI-Development-Des
 ### Workshop practice 6: 
 #### Time: 24 HOURS.
 
-![workshop2 Neoito](/workshop6.png)
+![workshop6 Neoito](/workshop6.png)
 
 ## Instructions 
 * Body should be 100% width.
